@@ -34,6 +34,10 @@
     font-family: "Kumbh Sans", sans-serif;
   }
 
+  .idle-h2 {
+    display: none;
+}
+
   .main-div {
     background-color: hsl(0, 0%, 100%);
     width: 350px;
